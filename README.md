@@ -23,7 +23,7 @@ Federated Learning framework for predictive maintenance.
 
 Large language model agent for industrial diagnostics.
 
-### Autonomous Helicopter Stack
+### Autonomous Core Stack
 
 Research platform for autonomous flight systems.
 
